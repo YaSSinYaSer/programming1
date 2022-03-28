@@ -1,3 +1,3 @@
-# programming1
+# ConnectFourGame
 for fcai
 ## project notes
